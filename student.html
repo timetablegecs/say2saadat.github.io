@@ -847,40 +847,75 @@ function downloadPDF() {
 
   const card = document.querySelector('.card');
   const tableWrapper = document.querySelector('.table-wrapper');
+  const downloadSection = document.getElementById("downloadSection");
 
-  /* ---- TEMP FIX FOR MOBILE PDF ---- */
+  /* ---- TEMP FIX FOR PDF ---- */
   tableWrapper.style.overflow = "visible";
 
   document.querySelectorAll("th, td").forEach(el => {
     el.style.position = "static";
   });
 
+  /* ---- REDUCE SIZE SLIGHTLY TO FIT ONE PAGE ---- */
+  document.querySelectorAll("th, td").forEach(el => {
+    el.style.fontSize = "10px";
+    el.style.padding = "5px";
+  });
+
+  /* ---- HIDE BUTTONS IN PDF ---- */
+  downloadSection.style.display = "none";
+
   const now = new Date();
   const dateTime =
     now.toLocaleDateString() + " " + now.toLocaleTimeString();
 
-  const footer = document.createElement("div");
-  footer.style.textAlign = "center";
-  footer.style.fontSize = "11px";
-  footer.style.marginTop = "10px";
-  footer.innerHTML = `Downloaded on: <b>${dateTime}</b>`;
+  /* ---- CREATE TIMESTAMP ON NEW PAGE ---- */
+  const footerPage = document.createElement("div");
 
-  card.appendChild(footer);
+  footerPage.style.pageBreakBefore = "always";
+  footerPage.style.textAlign = "center";
+  footerPage.style.fontSize = "14px";
+  footerPage.style.paddingTop = "100px";
+
+  footerPage.innerHTML = `
+    <div style="
+      border-top:1px solid #ccc;
+      padding-top:20px;
+      width:80%;
+      margin:auto;
+      color:#0b3c5d;
+      font-family:Georgia;
+    ">
+      Downloaded on: <b>${dateTime}</b>
+    </div>
+  `;
+
+  card.appendChild(footerPage);
 
   const opt = {
-    margin: 0.3,
+    margin: 0.2,
     filename: 'Timetable_' + now.getTime() + '.pdf',
-    image: { type: 'jpeg', quality: 0.98 },
+
+    image: {
+      type: 'jpeg',
+      quality: 1
+    },
+
     html2canvas: {
       scale: 2,
       scrollX: 0,
       scrollY: 0,
       useCORS: true
     },
+
     jsPDF: {
       unit: 'in',
       format: 'a4',
       orientation: 'landscape'
+    },
+
+    pagebreak: {
+      mode: ['css', 'legacy']
     }
   };
 
@@ -891,9 +926,13 @@ function downloadPDF() {
 
     document.querySelectorAll("th, td").forEach(el => {
       el.style.position = "";
+      el.style.fontSize = "";
+      el.style.padding = "";
     });
 
-    footer.remove();
+    downloadSection.style.display = "flex";
+
+    footerPage.remove();
   });
 }
 </script>

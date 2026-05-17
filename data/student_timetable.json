@@ -448,12 +448,12 @@
     "Semester": 4,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "HE-L, DPK, R-06",
-    "11:00 AM\n12:00PM": "TE-L, RKR, R-06",
-    "12:00 PM\n01:00PM": "BPCAED-L, SSU, R-06",
+    "11:00 AM\n12:00PM": "G1 HE-P, DPK + SP",
+    "12:00 PM\n01:00PM": "G1 HE-P, DPK + SP",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "G1 TE-P, RKR + SP",
+    "02:00 PM\n03:00PM": "TE-L, RKR, R-06",
     "03:00 PM\n04:00PM": "G1 TE-P, RKR + SP",
-    "04:00 PM\n05:00PM": "G2 TE-P, RKR + SP"
+    "04:00 PM\n05:00PM": "G1 TE-P, RKR + SP"
   },
   {
     "Branch": "CE",
@@ -461,7 +461,7 @@
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "GE-I-L, PNK, R-06",
     "11:00 AM\n12:00PM": "SA-L, RVS, R-06",
-    "12:00 PM\n01:00PM": "EG-L, AKA,, R-06",
+    "12:00 PM\n01:00PM": "EG-L, AKA, R-06",
     "Lunch": "",
     "02:00 PM\n03:00PM": "HE-L, DPK, R-06",
     "03:00 PM\n04:00PM": "BPCAED-P, RSR + PK",
@@ -471,13 +471,13 @@
     "Branch": "CE",
     "Semester": 4,
     "Day": "Thursday",
-    "10:00 AM\n11:00 AM": "TE-L, RKR, R-06",
-    "11:00 AM\n12:00PM": "BPCAED-L, SSU, R-06",
+    "10:00 AM\n11:00 AM": "G2 GE-I-P, PNK + PK",
+    "11:00 AM\n12:00PM": "G2 GE-I-P, PNK + PK",
     "12:00 PM\n01:00PM": "SA-L, RVS, R-06",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "G1 GE-I-P, PNK + PK",
+    "02:00 PM\n03:00PM": "EG-L, AKA, R-06",
     "03:00 PM\n04:00PM": "G1 GE-I-P, PNK + PK",
-    "04:00 PM\n05:00PM": "G2 GE-I-P, PNK + PK"
+    "04:00 PM\n05:00PM": "G1 GE-I-P, PNK + PK"
   },
   {
     "Branch": "CE",
@@ -487,19 +487,19 @@
     "11:00 AM\n12:00PM": "HE-L, DPK, R-06",
     "12:00 PM\n01:00PM": "EG-L, AKA, R-06",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "G1 HE-P, DPK + SP",
-    "03:00 PM\n04:00PM": "G1 HE-P, DPK + SP",
+    "02:00 PM\n03:00PM": "BPCAED-L, SSU, R-06",
+    "03:00 PM\n04:00PM": "G2 HE-P, DPK + SP",
     "04:00 PM\n05:00PM": "G2 HE-P, DPK + SP"
   },
   {
     "Branch": "CE",
     "Semester": 4,
     "Day": "Saturday",
-    "10:00 AM\n11:00 AM": "G2 HE-P, DPK + SP",
-    "11:00 AM\n12:00PM": "G2 TE-P, RKR + SP",
-    "12:00 PM\n01:00PM": "G2 GE-I-P, PNK + PK",
+    "10:00 AM\n11:00 AM": "G2, TE-P, RKR + SP",
+    "11:00 AM\n12:00PM": "G2, TE-P, RKR + SP",
+    "12:00 PM\n01:00PM": "TE-L, RKR, R-06",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "EG-L, AKA, R-06",
+    "02:00 PM\n03:00PM": "BPCAED-L, SSU, R-06",
     "03:00 PM\n04:00PM": "G2 EG-P, AKA + PK",
     "04:00 PM\n05:00PM": "G2 EG-P, AKA + PK"
   },
@@ -775,9 +775,9 @@
     "11:00 AM\n12:00PM": "CN-P, NCR + RV",
     "12:00 PM\n01:00PM": "FLA-L, ARK, R-05",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "",
+    "02:00 PM\n03:00PM": "LIB",
     "03:00 PM\n04:00PM": "DAA-L, SDT, R-05",
-    "04:00 PM\n05:00PM": ""
+    "04:00 PM\n05:00PM": "LIB"
   },
   {
     "Branch": "CSE (DS)",
@@ -787,8 +787,8 @@
     "11:00 AM\n12:00PM": "ETC-L, KSM, R-05",
     "12:00 PM\n01:00PM": "DAA-L, SDT, R-05",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "",
-    "03:00 PM\n04:00PM": "",
+    "02:00 PM\n03:00PM": "LIB",
+    "03:00 PM\n04:00PM": "LIB",
     "04:00 PM\n05:00PM": "LIB"
   },
   {
@@ -847,7 +847,7 @@
     "11:00 AM\n12:00PM": "AI-L, ANP, R-07",
     "12:00 PM\n01:00PM": "CSGI-L, AKA, R-07",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "LIB",
+    "02:00 PM\n03:00PM": "FDS-L, NCR, R-07",
     "03:00 PM\n04:00PM": "G1, AI-P, ANP + SK",
     "04:00 PM\n05:00PM": "G1, AI-P, ANP + SK"
   },
@@ -856,10 +856,10 @@
     "Semester": 4,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "BPCAED-L, SSU, R-07",
-    "11:00 AM\n12:00PM": "FDS-L, NCR, R-07",
+    "11:00 AM\n12:00PM": "G2, GE-I-P, RVS + PK",
     "12:00 PM\n01:00PM": "G2, GE-I-P, RVS + PK",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "G2, GE-I-P, RVS + PK",
+    "02:00 PM\n03:00PM": "LIB",
     "03:00 PM\n04:00PM": "G2, AI-P, ANP + SK",
     "04:00 PM\n05:00PM": "G2, AI-P, ANP + SK"
   },

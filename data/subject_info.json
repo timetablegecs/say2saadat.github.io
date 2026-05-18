@@ -624,70 +624,6 @@
     "Credits": ""
   },
   {
-    "SubjectCode": 101401,
-    "SubjectAcr": "CESG",
-    "SubjectName": "Civil Engineering - Societal & Global Impact",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101402,
-    "SubjectAcr": "DPP",
-    "SubjectName": "Disaster Preparedness & Planning",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101403,
-    "SubjectAcr": "GEO",
-    "SubjectName": "Engineering Geology",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101404,
-    "SubjectAcr": "",
-    "SubjectName": "Introduction to Fluid Mechanics",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101405,
-    "SubjectAcr": "",
-    "SubjectName": "Introduction to Solid Mechanics",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101406,
-    "SubjectAcr": "",
-    "SubjectName": "Materials, Testing & Evaluation",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101407,
-    "SubjectAcr": "",
-    "SubjectName": "",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 101408,
-    "SubjectAcr": "",
-    "SubjectName": "Structural Analysis",
-    "Department": "Civil Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
     "SubjectCode": 101501,
     "SubjectAcr": "ADCS",
     "SubjectName": "Analysis & Design of Concrete Structure",
@@ -1165,46 +1101,6 @@
     "SubjectName": "Indian Knowledge System",
     "Department": "Electronics and Communication Engineering",
     "Semester": 3,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 104401,
-    "SubjectAcr": "AC",
-    "SubjectName": "analog Circuits",
-    "Department": "Electronics and Communication Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 104402,
-    "SubjectAcr": "ACOMM",
-    "SubjectName": "Analog communication",
-    "Department": "Electronics and Communication Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 104403,
-    "SubjectAcr": "DC",
-    "SubjectName": "Digital circuit",
-    "Department": "Electronics and Communication Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 104404,
-    "SubjectAcr": "EMT",
-    "SubjectName": "Electromagnetic theory",
-    "Department": "Electronics and Communication Engineering",
-    "Semester": 4,
-    "Credits": ""
-  },
-  {
-    "SubjectCode": 104405,
-    "SubjectAcr": "SPD",
-    "SubjectName": "semiconductor physics and devices",
-    "Department": "Electronics and Communication Engineering",
-    "Semester": 4,
     "Credits": ""
   },
   {

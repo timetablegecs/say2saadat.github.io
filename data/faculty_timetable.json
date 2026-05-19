@@ -22,8 +22,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "G1,GE-I-P, Sem 4, PK",
+    "04:00PM-05:00PM": "G1,GE-I-P, Sem 4, PK"
   },
   {
     "EmployeeID": 40003385,
@@ -47,8 +47,8 @@
     "11:00AM-12:00PM": "G2, GE-I-P, Sem 4, PK",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "G1,GE-I-P, Sem 4, PK",
-    "03:00PM-04:00PM": "G1,GE-I-P, Sem 4, PK",
+    "02:00PM-03:00PM": "",
+    "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
   {
@@ -191,8 +191,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "G2 HE-P, Sem 4, SP",
+    "04:00PM-05:00PM": "G2 HE-P, Sem 4, SP"
   },
   {
     "EmployeeID": 40003381,
@@ -217,8 +217,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G2 HE-P, Sem 4, SP",
-    "04:00PM-05:00PM": "G2 HE-P, Sem 4, SP"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40003381,
@@ -360,8 +360,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "BPCEAD-P, Sem 04, PK",
-    "04:00PM-05:00PM": "BPCEAD-P, Sem 04, PK"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40041884,
@@ -373,8 +373,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "BPCAED-L, Sem 04, R-06",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "BPCEAD-P, Sem 04, PK",
+    "04:00PM-05:00PM": "BPCEAD-P, Sem 04, PK"
   },
   {
     "EmployeeID": 40041884,
@@ -412,8 +412,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "TE-L, Sem-4, R-06",
-    "03:00PM-04:00PM": "G1, TE-P, Sem-4, SP",
-    "04:00PM-05:00PM": "G1, TE-P, Sem-4, SP"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 8024,
@@ -438,8 +438,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "G1, TE-P, Sem-4, SP",
+    "04:00PM-05:00PM": "G1, TE-P, Sem-4, SP"
   },
   {
     "EmployeeID": 8024,
@@ -633,8 +633,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G1, EG-P, Sem 04, SP",
-    "04:00PM-05:00PM": "G1, EG-P, Sem 04, SP"
+    "03:00PM-04:00PM": "G1, EG-P, Sem 04, PK",
+    "04:00PM-05:00PM": "G1, EG-P, Sem 04, PK"
   },
   {
     "EmployeeID": 40089990,
@@ -698,8 +698,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CSGI-L, Sem 04, R-07",
-    "03:00PM-04:00PM": "G2, EG-P, Sem 04, PK",
-    "04:00PM-05:00PM": "G2, EG-P, Sem 04, PK"
+    "03:00PM-04:00PM": "G2, EG-P, Sem 04, SP",
+    "04:00PM-05:00PM": "G2, EG-P, Sem 04, SP"
   },
   {
     "EmployeeID": 40043238,
@@ -2124,7 +2124,7 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Tuesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "DC-L, Sem 04, R-09",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -2179,7 +2179,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DC-L, Sem 04, R-09",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2358,8 +2358,8 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Tuesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "G1, EMI-P, Sem 04, AR",
+    "12:00PM-01:00PM": "G1, EMI-P, Sem 04, AR",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EMI-L, Sem 04, R-09",
     "03:00PM-04:00PM": "",
@@ -2414,8 +2414,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G2, EMI-P, Sem 04, AR",
-    "04:00PM-05:00PM": "G2, EMI-P, Sem 04, AR"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40000471,

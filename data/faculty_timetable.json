@@ -373,16 +373,16 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "BPCAED-L, Sem 04, R-06",
-    "03:00PM-04:00PM": "BPCEAD-P, Sem 04, PK",
-    "04:00PM-05:00PM": "BPCEAD-P, Sem 04, PK"
+    "03:00PM-04:00PM": "G1, BPCEAD-P, Sem 04, PK",
+    "04:00PM-05:00PM": "G1, BPCEAD-P, Sem 04, PK"
   },
   {
     "EmployeeID": 40041884,
     "Name": "Mr. Raushan Kumar Ravi",
     "Department": "Civil Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "G2, BPCEAD-P, Sem 04, PK",
+    "11:00AM-12:00PM": "G2, BPCEAD-P, Sem 04, PK",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "BPCAED-L, Sem 04, R-06",
@@ -503,8 +503,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "BPCEAD-P, Sem 04, SP",
-    "04:00PM-05:00PM": "BPCEAD-P, Sem 04, SP"
+    "03:00PM-04:00PM": "G1, BPCEAD-P, Sem 04, SP",
+    "04:00PM-05:00PM": "G1, BPCEAD-P, Sem 04, SP"
   },
   {
     "EmployeeID": 8041,
@@ -529,8 +529,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "G2, BPCEAD-P, Sem 04, SP",
+    "04:00PM-05:00PM": "G2, BPCEAD-P, Sem 04, SP"
   },
   {
     "EmployeeID": 8041,
@@ -902,7 +902,7 @@
     "Department": "Mechanical Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "SOM-L, Sem 04, R-10",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -931,7 +931,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "SOM-L, Sem 04, R-10",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -1180,7 +1180,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "AT-T, Sem 04, R-10"
   },
   {
     "EmployeeID": 40042927,
@@ -1228,7 +1228,7 @@
     "Day": "Friday",
     "10:00-11:00AM": "EME-L, 2nd, R-02",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "AT-T, Sem 04, R-10",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EME-P, 2nd, KK",
     "03:00PM-04:00PM": "EME-P, 2nd, KK",
@@ -1293,7 +1293,7 @@
     "Day": "Thursday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "KOM-L, Sem 04, R-10",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "G1, KOM-P, Sem 04, KK",
@@ -1308,7 +1308,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "KOM-L, Sem 04, R-10",
     "03:00PM-04:00PM": "EGD-P, ECE-2nd, KK, R-DWL",
     "04:00PM-05:00PM": "EGD-P, ECE-2nd, KK, R-DWL"
   },
@@ -1335,8 +1335,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G1, FHM-P, Sem 04, AW",
-    "04:00PM-05:00PM": "G1, FHM-P, Sem 04, AW"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40042931,
@@ -1348,8 +1348,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G2, FHM-P, Sem 04, AW",
-    "04:00PM-05:00PM": "G2, FHM-P, Sem 04, AW"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40042931,
@@ -1357,8 +1357,8 @@
     "Department": "Mechanical Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "G1, FHM-P, Sem 04, AW",
+    "12:00PM-01:00PM": "G1, FHM-P, Sem 04, AW",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -1370,8 +1370,8 @@
     "Department": "Mechanical Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "FHM-L, Sem 04, R-10",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "G2, FHM-P, Sem 04, AW",
+    "12:00PM-01:00PM": "G2, FHM-P, Sem 04, AW",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -2609,8 +2609,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "AI-L, Sem 04, R-07",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "G2, AI-P, Sem 04, SK",
+    "04:00PM-05:00PM": "AI-P, Sem 04, SK"
   },
   {
     "EmployeeID": 40231588,
@@ -2635,7 +2635,7 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "AI-P, Sem 04, SK",
+    "03:00PM-04:00PM": "G1, AI-P, Sem 04, SK",
     "04:00PM-05:00PM": "AI-P, Sem 04, SK"
   },
   {
@@ -3541,7 +3541,7 @@
     "Department": "Applied Science",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "PM-L, Sem 04, R-10",
+    "11:00AM-12:00PM": "PM-L, ME, Sem 04, R-10",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -3567,11 +3567,11 @@
     "Department": "Applied Science",
     "Day": "Friday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "PM-L, Sem 04, R-10",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "PM-L, ME, Sem 04, R-10",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3579,8 +3579,8 @@
     "Name": "Mr. Sumit Sardesai",
     "Department": "Applied Science",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "PM-L, Sem 04, R-10",
+    "10:00-11:00AM": "PM-L, ME, Sem 04, R-10",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",

@@ -488,15 +488,15 @@
     "12:00 PM\n01:00PM": "EG-L, AKA, R-06",
     "Lunch": "",
     "02:00 PM\n03:00PM": "BPCAED-L, RSR, R-06",
-    "03:00 PM\n04:00PM": "G1, BPCAED-P, RSR + PK",
-    "04:00 PM\n05:00PM": "G1, BPCAED-P, RSR + PK"
+    "03:00 PM\n04:00PM": "G2, BPCAED-P, RSR + PK",
+    "04:00 PM\n05:00PM": "G2, BPCAED-P, RSR + PK"
   },
   {
     "Branch": "CE",
     "Semester": 4,
     "Day": "Saturday",
-    "10:00 AM\n11:00 AM": "G2, TE-P, RKR + SP & G2, BPCAED-P, RSR + PK",
-    "11:00 AM\n12:00PM": "G2, TE-P, RKR + SP & G2, BPCAED-P, RSR + PK",
+    "10:00 AM\n11:00 AM": "G2, TE-P, RKR + SP & G1, BPCAED-P, RSR + PK",
+    "11:00 AM\n12:00PM": "G2, TE-P, RKR + SP & G1, BPCAED-P, RSR + PK",
     "12:00 PM\n01:00PM": "TE-L, RKR, R-06",
     "Lunch": "",
     "02:00 PM\n03:00PM": "BPCAED-L, RSR, R-06",

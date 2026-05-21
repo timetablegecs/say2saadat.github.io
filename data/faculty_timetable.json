@@ -537,7 +537,7 @@
     "Name": "Mr. Saurabh Suman",
     "Department": "Civil Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "BPCEAD-L, Sem 04, R-07",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2544,16 +2544,16 @@
     "12:00PM-01:00PM": "DBMS-L, Sem 04, R-05",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "DBMS-P, Sem 04, SK",
-    "04:00PM-05:00PM": "DBMS-P, Sem 04, SK"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40231948,
     "Name": "Ms. Anshu Priya",
     "Department": "CSE (Data Science)",
     "Day": "Friday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "DBMS-P, Sem 04, SK",
+    "11:00AM-12:00PM": "DBMS-P, Sem 04, SK",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "IWD-L, 2nd, R-03",
@@ -2790,7 +2790,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "FDS-L, Sem 04, R-07",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },

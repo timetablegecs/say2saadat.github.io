@@ -764,15 +764,15 @@
     "12:00 PM\n01:00PM": "DBMS-L, ASP, R-05",
     "Lunch": "",
     "02:00 PM\n03:00PM": "DAA-L, SDT, R-05",
-    "03:00 PM\n04:00PM": "DBMS-P, ASP + SK",
-    "04:00 PM\n05:00PM": "DBMS-P, ASP + SK"
+    "03:00 PM\n04:00PM": "LIB",
+    "04:00 PM\n05:00PM": "LIB"
   },
   {
     "Branch": "CSE (DS)",
     "Semester": 4,
     "Day": "Friday",
-    "10:00 AM\n11:00 AM": "LIB",
-    "11:00 AM\n12:00PM": "LIB",
+    "10:00 AM\n11:00 AM": "DBMS-P, ASP + SK",
+    "11:00 AM\n12:00PM": "DBMS-P, ASP + SK",
     "12:00 PM\n01:00PM": "LIB",
     "Lunch": "",
     "02:00 PM\n03:00PM": "LIB",
@@ -847,7 +847,7 @@
     "11:00 AM\n12:00PM": "AI-L, ANP, R-07",
     "12:00 PM\n01:00PM": "CSGI-L, AKA, R-07",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "FDS-L, NCR, R-07",
+    "02:00 PM\n03:00PM": "LIB",
     "03:00 PM\n04:00PM": "G1, AI-P, ANP + SK & G2, BPCAED-P, SSU + PK",
     "04:00 PM\n05:00PM": "G1, AI-P, ANP + SK & G2, BPCAED-P, SSU + PK"
   },
@@ -855,7 +855,7 @@
     "Branch": "CECA",
     "Semester": 4,
     "Day": "Saturday",
-    "10:00 AM\n11:00 AM": "BPCAED-L, SSU, R-07",
+    "10:00 AM\n11:00 AM": "LIB",
     "11:00 AM\n12:00PM": "G2, GE-I-P, RVS + PK",
     "12:00 PM\n01:00PM": "G2, GE-I-P, RVS + PK",
     "Lunch": "",

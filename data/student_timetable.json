@@ -775,9 +775,9 @@
     "11:00 AM\n12:00PM": "DBMS-P, ASP + SK",
     "12:00 PM\n01:00PM": "LIB",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "LIB",
-    "03:00 PM\n04:00PM": "DAA-L, SDT, R-05",
-    "04:00 PM\n05:00PM": "LIB"
+    "02:00 PM\n03:00PM": "CN-P, NCR + RV",
+    "03:00 PM\n04:00PM": "CN-P, NCR + RV",
+    "04:00 PM\n05:00PM": "DAA-L, SDT, R-05"
   },
   {
     "Branch": "CSE (DS)",
@@ -788,8 +788,8 @@
     "12:00 PM\n01:00PM": "DAA-L, SDT, R-05",
     "Lunch": "",
     "02:00 PM\n03:00PM": "CN-L, NCR, R-05",
-    "03:00 PM\n04:00PM": "CN-P, NCR + RV",
-    "04:00 PM\n05:00PM": "CN-P, NCR + RV"
+    "03:00 PM\n04:00PM": "LIB",
+    "04:00 PM\n05:00PM": "LIB"
   },
   {
     "Branch": "CECA",

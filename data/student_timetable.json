@@ -868,7 +868,7 @@
     "Semester": 6,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "GEII-L, PNK, R-11",
-    "11:00 AM\n12:00PM": "GEII-L, PNK, R-11",
+    "11:00 AM\n12:00PM": "",
     "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "CE&M-L, MSA, R-11",
@@ -880,7 +880,7 @@
     "Semester": 6,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "GEII-L, PNK, R-11",
-    "11:00 AM\n12:00PM": "",
+    "11:00 AM\n12:00PM": "GEII-L, PNK, R-11",
     "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "NPTEL/Others",
@@ -895,9 +895,9 @@
     "11:00 AM\n12:00PM": "EEEC-P, SSU, PK",
     "12:00 PM\n01:00PM": "EEEC-P, SSU, PK",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "EEEC-L, SSU, R-11",
-    "03:00 PM\n04:00PM": "EEEC-P, SSU, PK",
-    "04:00 PM\n05:00PM": "EEEC-P, SSU, PK"
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
   },
   {
     "Branch": "CE",
@@ -907,8 +907,8 @@
     "11:00 AM\n12:00PM": "EE-II, DPK, R-11",
     "12:00 PM\n01:00PM": "EE-II, DPK, R-11",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "NPTEL/Others",
-    "03:00 PM\n04:00PM": "",
+    "02:00 PM\n03:00PM": "PE-I, RKR, R-11",
+    "03:00 PM\n04:00PM": "EEEC-L, SSU, R-11",
     "04:00 PM\n05:00PM": ""
   },
   {
@@ -932,7 +932,7 @@
     "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "EEEC-L, SSU, R-11",
-    "03:00 PM\n04:00PM": "PE-I, RKR, R-11",
+    "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": ""
   },
   {
@@ -943,7 +943,7 @@
     "11:00 AM\n12:00PM": "MT-P, AMK+KK",
     "12:00 PM\n01:00PM": "MT-P, AMK+KK",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "",
+    "02:00 PM\n03:00PM": "AM-L, VKK, T2",
     "03:00 PM\n04:00PM": "DM-L, CDK, T2",
     "04:00 PM\n05:00PM": "RES-L, RKS, T2"
   },
@@ -976,7 +976,7 @@
     "Semester": 6,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "DM-L, CDK, T2",
-    "11:00 AM\n12:00PM": "AM-L, VKK, T2",
+    "11:00 AM\n12:00PM": "CM-L, SRJ, T2",
     "12:00 PM\n01:00PM": "CM-L, SRJ, T2",
     "Lunch": "",
     "02:00 PM\n03:00PM": "DME-L, VSK, T2",
@@ -991,7 +991,7 @@
     "11:00 AM\n12:00PM": "RES-L, RKS, T2",
     "12:00 PM\n01:00PM": "PPE-L, AVK, T2",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "CM-L, SRJ, T2",
+    "02:00 PM\n03:00PM": "",
     "03:00 PM\n04:00PM": "DME-P, VSK+AW",
     "04:00 PM\n05:00PM": "DME-P, VSK+AW"
   },
@@ -1003,8 +1003,8 @@
     "11:00 AM\n12:00PM": "AM-P, VKK+ KK",
     "12:00 PM\n01:00PM": "AM-P, VKK+ KK",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "CM-L, SRJ, T2",
-    "03:00 PM\n04:00PM": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "CM-L, SRJ, T2",
     "04:00 PM\n05:00PM": "DME-L, VSK, T2"
   },
   {
@@ -1085,10 +1085,10 @@
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "BE-L, ABK, T1",
     "11:00 AM\n12:00PM": "BE-L, ABK, T1",
-    "12:00 PM\n01:00PM": "",
+    "12:00 PM\n01:00PM": "CMOS VLSI-L, RVK, T1",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "CMOS VLSI-L, RVK, T1",
-    "03:00 PM\n04:00PM": "CMOS VLSI-L, RVK, T1",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": ""
   },
   {
@@ -1096,10 +1096,10 @@
     "Semester": 6,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "DC-L, BMK, T1",
-    "11:00 AM\n12:00PM": "",
-    "12:00 PM\n01:00PM": "",
+    "11:00 AM\n12:00PM": "CMOS VLSI-L, RVK, T1",
+    "12:00 PM\n01:00PM": "CMOS VLSI-L, RVK, T1",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "CMOS VLSI-L, RVK, T1",
+    "02:00 PM\n03:00PM": "",
     "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": ""
   },

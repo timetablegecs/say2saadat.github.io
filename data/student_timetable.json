@@ -547,7 +547,7 @@
     "11:00 AM\n12:00PM": "G2, FHM-P, SMK + AW",
     "12:00 PM\n01:00PM": "G2, FHM-P, SMK + AW",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "PM-L, SSI, R-10",
+    "02:00 PM\n03:00PM": "",
     "03:00 PM\n04:00PM": "G1, KOM-P, CDK + KK",
     "04:00 PM\n05:00PM": "G1, KOM-P, CDK + KK"
   },
@@ -652,7 +652,7 @@
     "Semester": 4,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "AEIC-L, ASK, R-09",
-    "11:00 AM\n12:00PM": "DC-L, SJK/RCV, R-09",
+    "11:00 AM\n12:00PM": "DC-L, SJK, R-09",
     "12:00 PM\n01:00PM": "EMFT-L, MUK, R-09",
     "Lunch": "",
     "02:00 PM\n03:00PM": "AC-L, BMK, R-09",
@@ -676,12 +676,12 @@
     "Semester": 4,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "AC-L, BMK, R-09",
-    "11:00 AM\n12:00PM": "G1, DC-P, SJK/RCV + DP",
-    "12:00 PM\n01:00PM": "G1, DC-P, SJK/RCV + DP",
+    "11:00 AM\n12:00PM": "G1, DC-P, SJK + DP",
+    "12:00 PM\n01:00PM": "G1, DC-P, SJK + DP",
     "Lunch": "",
     "02:00 PM\n03:00PM": "EMFT-L, MUK, R-09",
-    "03:00 PM\n04:00PM": "G2, DC-P, SJK/RCV + DP",
-    "04:00 PM\n05:00PM": "G2, DC-P, SJK/RCV + DP"
+    "03:00 PM\n04:00PM": "G2, DC-P, SJK + DP",
+    "04:00 PM\n05:00PM": "G2, DC-P, SJK + DP"
   },
   {
     "Branch": "ECE",
@@ -699,7 +699,7 @@
     "Branch": "ECE",
     "Semester": 4,
     "Day": "Friday",
-    "10:00 AM\n11:00 AM": "DC-L, SJK/RCV, R-09",
+    "10:00 AM\n11:00 AM": "DC-L, SJK, R-09",
     "11:00 AM\n12:00PM": "EMFT-T, MUK, R-09",
     "12:00 PM\n01:00PM": "EMI-L, MKT, R-09",
     "Lunch": "",
@@ -845,7 +845,7 @@
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "GE-I-L, SSU, R-07",
     "11:00 AM\n12:00PM": "AI-L, ANP, R-07",
-    "12:00 PM\n01:00PM": "CSGI-L, AKA, R-07",
+    "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "LIB",
     "03:00 PM\n04:00PM": "G1, AI-P, ANP + SK & G2, BPCAED-P, SSU + PK",
@@ -855,7 +855,7 @@
     "Branch": "CECA",
     "Semester": 4,
     "Day": "Saturday",
-    "10:00 AM\n11:00 AM": "LIB",
+    "10:00 AM\n11:00 AM": "CSGI-L, AKA, R-07",
     "11:00 AM\n12:00PM": "G2, GE-I-P, SSU + PK",
     "12:00 PM\n01:00PM": "G2, GE-I-P, SSU + PK",
     "Lunch": "",
@@ -885,7 +885,7 @@
     "Lunch": "",
     "02:00 PM\n03:00PM": "NPTEL/Others",
     "03:00 PM\n04:00PM": "",
-    "04:00 PM\n05:00PM": ""
+    "04:00 PM\n05:00PM": "EEEC-L, SSU, R-11"
   },
   {
     "Branch": "CE",
@@ -908,7 +908,7 @@
     "12:00 PM\n01:00PM": "EE-II, DPK, R-11",
     "Lunch": "",
     "02:00 PM\n03:00PM": "CM-L, RKR, R-11",
-    "03:00 PM\n04:00PM": "EEEC-L, SSU, R-11",
+    "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": ""
   },
   {

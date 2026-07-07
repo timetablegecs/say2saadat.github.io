@@ -530,7 +530,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "G2, BPCEAD-P, Sem 04, SP",
-    "04:00PM-05:00PM": "G2, BPCEAD-P, Sem 04, SP"
+    "04:00PM-05:00PM": "G2, BPCEAD-P, Sem 04, S"
   },
   {
     "EmployeeID": 8041,
@@ -693,7 +693,7 @@
     "Name": "Dr. Ankur Ashutosh",
     "Department": "Civil Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "CSGI-L, Sem 04, R-07",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -719,9 +719,9 @@
     "Name": "Mr. Amit Kumar",
     "Department": "Mechanical Engineering",
     "Day": "Tuesday",
-    "10:00-11:00AM": "MT-L, Sem 6, T2",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "MT-L, Sem 6, T2",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "MT-L, Sem 6, T2",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -919,8 +919,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G2, SOM-P, Sem 04, KK",
-    "04:00PM-05:00PM": "G2, SOM-P, Sem 04, KK"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40043065,
@@ -928,8 +928,8 @@
     "Department": "Mechanical Engineering",
     "Day": "Saturday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "G2, SOM-P, Sem 04, KK",
+    "12:00PM-01:00PM": "G2, SOM-P, Sem 04, KK",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "SOM-L, Sem 04, R-10",
     "03:00PM-04:00PM": "",
@@ -1153,8 +1153,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "DME-P, Sem 6, AW",
+    "04:00PM-05:00PM": "DME-P, Sem 6, AW"
   },
   {
     "EmployeeID": 40043960,
@@ -2267,7 +2267,7 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Monday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "DC-L, Sem 04, R-09",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -2293,12 +2293,12 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "G1, DC-P, Sem 04, DP",
-    "12:00PM-01:00PM": "G1, DC-P, Sem 04, DP",
+    "11:00AM-12:00PM": "",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G2, DC-P, Sem 04, DP",
-    "04:00PM-05:00PM": "G2, DC-P, Sem 04, DP"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40014541,
@@ -2318,7 +2318,7 @@
     "Name": "Dr. Ruchi Verma",
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "DC-L, Sem 04, R-09",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2335,7 +2335,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "DC-L, Sem 04, R-09",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2610,7 +2610,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "AI-L, Sem 04, R-07",
     "03:00PM-04:00PM": "G2, AI-P, Sem 04, SK",
-    "04:00PM-05:00PM": "AI-P, Sem 04, SK"
+    "04:00PM-05:00PM": "G2, AI-P, Sem 04, SK"
   },
   {
     "EmployeeID": 40231588,
@@ -2636,7 +2636,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DLA-L, Sem 6, R-14",
     "03:00PM-04:00PM": "G1, AI-P, Sem 04, SK",
-    "04:00PM-05:00PM": "AI-P, Sem 04, SK"
+    "04:00PM-05:00PM": "G1, AI-P, Sem 04, SK"
   },
   {
     "EmployeeID": 40231588,

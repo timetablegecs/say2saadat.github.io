@@ -2492,8 +2492,8 @@
     "12:00PM-01:00PM": "PPS-P, 2nd, SK, R-CDL",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "AI-L, AKR, R-13",
-    "04:00PM-05:00PM": "AI-L, AKR"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40231948,
@@ -2726,8 +2726,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CA-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "AI, CECA sem 6, R13",
+    "04:00PM-05:00PM": "AI, CECA sem 6, R13"
   },
   {
     "EmployeeID": 40231589,

@@ -547,7 +547,7 @@
     "11:00 AM\n12:00PM": "G2, FHM-P, SMK + AW",
     "12:00 PM\n01:00PM": "G2, FHM-P, SMK + AW",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "",
+    "02:00 PM\n03:00PM": "PM-L, SSI, R-10",
     "03:00 PM\n04:00PM": "G1, KOM-P, CDK + KK",
     "04:00 PM\n05:00PM": "G1, KOM-P, CDK + KK"
   },
@@ -560,16 +560,16 @@
     "12:00 PM\n01:00PM": "G1, FHM-P, SMK + AW",
     "Lunch": "",
     "02:00 PM\n03:00PM": "KOM-L, CDK, R-10",
-    "03:00 PM\n04:00PM": "PM-L, SSI, R-10",
-    "04:00 PM\n05:00PM": "LIB"
+    "03:00 PM\n04:00PM": "G2,SOM-P, RKS + KK",
+    "04:00 PM\n05:00PM": "G2,SOM-P, RKS + KK"
   },
   {
     "Branch": "ME",
     "Semester": 4,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "PM-L, SSI, R-10",
-    "11:00 AM\n12:00PM": "G2,SOM-P, RKS + KK",
-    "12:00 PM\n01:00PM": "G2,SOM-P, RKS +  KK",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "SOM-L, RKS, R-10",
     "03:00 PM\n04:00PM": "G2, KOM-P, CDK + AW",
@@ -909,7 +909,7 @@
     "Lunch": "",
     "02:00 PM\n03:00PM": "CM-L, RKR, R-11",
     "03:00 PM\n04:00PM": "",
-    "04:00 PM\n05:00PM": ""
+    "04:00 PM\n05:00PM": "FL-P, KSM, Lang. Lab"
   },
   {
     "Branch": "CE",
@@ -980,7 +980,7 @@
     "12:00 PM\n01:00PM": "CM-L, SRJ, T2",
     "Lunch": "",
     "02:00 PM\n03:00PM": "DME-L, VSK, T2",
-    "03:00 PM\n04:00PM": "",
+    "03:00 PM\n04:00PM": "FL-P, KSM, Lang. Lab",
     "04:00 PM\n05:00PM": "MT-L, AMK, T2"
   },
   {
@@ -1052,7 +1052,7 @@
     "12:00 PM\n01:00PM": "",
     "Lunch": "",
     "02:00 PM\n03:00PM": "IES, SDK, R-12",
-    "03:00 PM\n04:00PM": "",
+    "03:00 PM\n04:00PM": "FL-P, KSM, Lang. Lab",
     "04:00 PM\n05:00PM": ""
   },
   {
@@ -1125,7 +1125,7 @@
     "Lunch": "",
     "02:00 PM\n03:00PM": "EIM-L, MKT, T1",
     "03:00 PM\n04:00PM": "EIM-T, MKT, T1",
-    "04:00 PM\n05:00PM": ""
+    "04:00 PM\n05:00PM": "FL-P, KSM, Lang. Lab"
   },
   {
     "Branch": "ECE",
@@ -1268,7 +1268,7 @@
     "12:00 PM\n01:00PM": "EE-II, DPK, R-11",
     "Lunch": "",
     "02:00 PM\n03:00PM": "CM-L, RKR, R-11",
-    "03:00 PM\n04:00PM": "",
+    "03:00 PM\n04:00PM": "FL-P, KSM, Lang. Lab",
     "04:00 PM\n05:00PM": ""
   },
   {
@@ -1297,7 +1297,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1309,7 +1309,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1321,7 +1321,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1333,7 +1333,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1345,7 +1345,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1357,7 +1357,7 @@
   },
   {
     "Branch": "CE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1369,7 +1369,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1381,7 +1381,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1393,7 +1393,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1405,7 +1405,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1417,7 +1417,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1429,7 +1429,7 @@
   },
   {
     "Branch": "ME",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1441,7 +1441,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1453,7 +1453,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1465,7 +1465,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1477,7 +1477,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1489,7 +1489,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1501,7 +1501,7 @@
   },
   {
     "Branch": "EE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1513,7 +1513,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1525,7 +1525,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1537,7 +1537,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1549,7 +1549,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1561,7 +1561,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1573,7 +1573,7 @@
   },
   {
     "Branch": "ECE",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1585,7 +1585,7 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Monday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1597,7 +1597,7 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Tuesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1609,7 +1609,7 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Wednesday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1621,7 +1621,7 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1633,7 +1633,7 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",
@@ -1645,7 +1645,79 @@
   },
   {
     "Branch": "CSE (DS)",
-    "Semester": 11,
+    "Semester": 3,
+    "Day": "Saturday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
+    "Day": "Monday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
+    "Day": "Tuesday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
+    "Day": "Wednesday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
+    "Day": "Thursday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
+    "Day": "Friday",
+    "10:00 AM\n11:00 AM": "",
+    "11:00 AM\n12:00PM": "",
+    "12:00 PM\n01:00PM": "",
+    "Lunch": "",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
+    "04:00 PM\n05:00PM": ""
+  },
+  {
+    "Branch": "CECA",
+    "Semester": 3,
     "Day": "Saturday",
     "10:00 AM\n11:00 AM": "",
     "11:00 AM\n12:00PM": "",

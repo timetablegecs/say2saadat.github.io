@@ -78,84 +78,6 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Monday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "GE-I-L, Sem 04, R-07",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "SA-L, Sem 4, R-06",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
-  },
-  {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Tuesday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
-  },
-  {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Wednesday",
-    "10:00-11:00AM": "GE-I-L, Sem 04, R-07",
-    "11:00AM-12:00PM": "SA-L, Sem 4, R-06",
-    "12:00PM-01:00PM": "",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
-  },
-  {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Thursday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "SA-L, Sem 4, R-06",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "G1, GE-I-P, Sem 04, PK",
-    "04:00PM-05:00PM": "G1, GE-I-P, Sem 04, PK"
-  },
-  {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Friday",
-    "10:00-11:00AM": "GE-I-L, Sem 04, R-07",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
-  },
-  {
-    "EmployeeID": 40003388,
-    "Name": "Mr. Ravi Shankar",
-    "Department": "Civil Engineering",
-    "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "G2, GE-I-P, Sem 04, PK",
-    "12:00PM-01:00PM": "G2, GE-I-P, Sem 04, PK",
-    "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
-  },
-  {
     "EmployeeID": 40003381,
     "Name": "Mr. Deepak Kumar",
     "Department": "Civil Engineering",
@@ -2987,7 +2909,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "G1, ENG-P, ECE-2nd, R-LNGL",
     "03:00PM-04:00PM": "G1, ENG-P, ECE-2nd, R-LNGL",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "FL, CSE 6, lang Lab"
   },
   {
     "EmployeeID": 8032,
@@ -3012,8 +2934,8 @@
     "12:00PM-01:00PM": "ENG-L, ECE-2nd, R-01",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "FL, CE+ECE, lang Lab",
-    "04:00PM-05:00PM": "FL, CE+ECE, lang Lab"
+    "03:00PM-04:00PM": "FL, CECA+EE+ME 6, lang Lab",
+    "04:00PM-05:00PM": "FL, CE+ECE 6, lang Lab"
   },
   {
     "EmployeeID": 8032,

@@ -316,8 +316,8 @@
     "Name": "Mr. Rakesh Kumar Ravi",
     "Department": "Civil Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "FM-L, CECA 3rd, R 4",
+    "11:00AM-12:00PM": "FM-L, CECA 3rd, R 4",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -343,20 +343,20 @@
     "Department": "Civil Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "MTE-P, CE sem 3, SP",
+    "12:00PM-01:00PM": "MTE-P, CE sem 3, SP",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "TE-L, Sem-4, R-06",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "FM-P, CECA 3rd, PK",
+    "04:00PM-05:00PM": "FM-P, CECA 3rd, PK"
   },
   {
     "EmployeeID": 8024,
     "Name": "Mr. Rakesh Kumar Ravi",
     "Department": "Civil Engineering",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "MTE-P, CECA sem 3, SP",
+    "11:00AM-12:00PM": "MTE-P, CECA sem 3, SP",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PE I-L, Sem -6, R-11",
@@ -368,7 +368,7 @@
     "Name": "Mr. Rakesh Kumar Ravi",
     "Department": "Civil Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "FM-L, CECA 3rd, R 4",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -424,7 +424,7 @@
     "11:00AM-12:00PM": "EEEC-P, Sem 6, PK",
     "12:00PM-01:00PM": "EEEC-P, Sem 6, PK",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "FM-L, CE 3rd, R 4",
     "03:00PM-04:00PM": "G1, BPCEAD-P, Sem 04, SP",
     "04:00PM-05:00PM": "G1, BPCEAD-P, Sem 04, SP"
   },
@@ -433,11 +433,11 @@
     "Name": "Mr. Saurabh Suman",
     "Department": "Civil Engineering",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "FM-L, CE 3rd, R 4",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "FM-L, CE 3rd, R 4",
     "03:00PM-04:00PM": "G1, GE-I-P, Sem 04, PK",
     "04:00PM-05:00PM": "G1, GE-I-P, Sem 04, PK"
   },
@@ -464,8 +464,8 @@
     "12:00PM-01:00PM": "G2, GE-I-P, Sem 04, PK",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EEEC-L, Sem 6, R-11",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "FM-P, sem 3, PK",
+    "04:00PM-05:00PM": "FM-P, sem 3, PK"
   },
   {
     "EmployeeID": 8046,
@@ -477,8 +477,8 @@
     "12:00PM-01:00PM": "SA-L, Sem 04, R-06",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "SA-L, Sem 04, R-07",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "GS-P, FHM, SP",
+    "04:00PM-05:00PM": "GS-P, FHM, SP"
   },
   {
     "EmployeeID": 8046,
@@ -487,7 +487,7 @@
     "Day": "Tuesday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "SM-L, CE +CECA 3rd, SH 2",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -498,7 +498,7 @@
     "Name": "Mr. Fahim Ahmad Khan",
     "Department": "Civil Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "SM-L, CE +CECA 3rd, SH 2",
     "11:00AM-12:00PM": "SA-L, Sem 04, R-07",
     "12:00PM-01:00PM": "SA-L, Sem 04, R-06",
     "Lunch Hours": "",
@@ -512,7 +512,7 @@
     "Department": "Civil Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "DSS-L, Sem 06, R-011",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "GM-L, CE 3rd, R 4",
     "12:00PM-01:00PM": "SA-L, Sem 04, R-07",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "SA-L, Sem 04, R-06",
@@ -525,7 +525,7 @@
     "Department": "Civil Engineering",
     "Day": "Friday",
     "10:00-11:00AM": "DSS-L, Sem 06, R-011",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "GM-L, CE 3rd, R 4",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DSS-T, Sem 06, R-011",
@@ -537,8 +537,8 @@
     "Name": "Mr. Fahim Ahmad Khan",
     "Department": "Civil Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "SM-L, CE +CECA 3rd, SH 2",
+    "11:00AM-12:00PM": "GM-L, CE 3rd, R 4",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -550,8 +550,8 @@
     "Name": "Dr. Ankur Ashutosh",
     "Department": "Civil Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "SBM-L, 2nd, R-04",
-    "11:00AM-12:00PM": "SBM-L, 2nd, R-04",
+    "10:00-11:00AM": "",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EG-L, Sem 04, R-06",
@@ -569,7 +569,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CSGI-L, Sem 04, R-07",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "GI, sem 3rd,  R4"
   },
   {
     "EmployeeID": 40089990,
@@ -577,7 +577,7 @@
     "Department": "Civil Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "GI, sem 3rd,  R4",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -645,8 +645,8 @@
     "11:00AM-12:00PM": "MT-L, Sem 6, T2",
     "12:00PM-01:00PM": "MT-L, Sem 6, T2",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "IKS-L, sem 3, R-1",
+    "03:00PM-04:00PM": "IKS-L, sem 3, R-1",
     "04:00PM-05:00PM": ""
   },
   {
@@ -658,7 +658,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "IKS-L, sem 3, R-1",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -668,8 +668,8 @@
     "Department": "Mechanical Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "MSE-L, Sem 3, R-1",
+    "12:00PM-01:00PM": "MSE-L, Sem 3, R-1",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -698,7 +698,7 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "MSE-L, Sem 3, R-1",
     "04:00PM-05:00PM": ""
   },
   {
@@ -745,7 +745,7 @@
     "Name": "Prof. Keshavendra Choudhary",
     "Department": "Mechanical Engineering",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "TD, Sem-3, R-1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -758,7 +758,7 @@
     "Name": "Prof. Keshavendra Choudhary",
     "Department": "Mechanical Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "TD, Sem-3, R-1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -771,7 +771,7 @@
     "Name": "Prof. Keshavendra Choudhary",
     "Department": "Mechanical Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "TD, Sem-3, R-1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -940,7 +940,7 @@
     "Name": "Mr. Seraj Ahmed",
     "Department": "Mechanical Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EM, sem 3, R1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -953,7 +953,7 @@
     "Name": "Mr. Seraj Ahmed",
     "Department": "Mechanical Engineering",
     "Day": "Tuesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EM, sem 3, R1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -966,7 +966,7 @@
     "Name": "Mr. Seraj Ahmed",
     "Department": "Mechanical Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EM, sem 3, R1",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -997,8 +997,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "EM-P, sem 3. AW",
+    "04:00PM-05:00PM": "EM-P, sem 3. AW"
   },
   {
     "EmployeeID": 40043914,
@@ -1020,7 +1020,7 @@
     "Day": "Monday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "EM-L, sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -1033,7 +1033,7 @@
     "Day": "Tuesday",
     "10:00-11:00AM": "DME-L, Sem 6. T2",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "EM-L, sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EGD-P,  EE-2nd, +KK, R-DWL",
     "03:00PM-04:00PM": "EGD-P,  EE-2nd, +KK, R-DWL",
@@ -1046,7 +1046,7 @@
     "Day": "Wednesday",
     "10:00-11:00AM": "EGD-L, EE-2nd, R-01,",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "EM-L, sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -1072,7 +1072,7 @@
     "Day": "Friday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "EM-T, sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "DME-P, Sem 6, AW",
@@ -1330,7 +1330,7 @@
     "Name": "Mr. Sudhir Kumar",
     "Department": "Electrical Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "AE-L, sem 3, R-3",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -1343,7 +1343,7 @@
     "Name": "Mr. Sudhir Kumar",
     "Department": "Electrical Engineering",
     "Day": "Tuesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "AE-L, sem 3, R-3",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "EFT-L, Sem 04, R-08",
     "Lunch Hours": "",
@@ -1356,7 +1356,7 @@
     "Name": "Mr. Sudhir Kumar",
     "Department": "Electrical Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "AE-L, sem 3, R-3",
     "11:00AM-12:00PM": "IES-L, Sem 6, R-12",
     "12:00PM-01:00PM": "IES-L, Sem 6, R-12",
     "Lunch Hours": "",
@@ -1369,13 +1369,13 @@
     "Name": "Mr. Sudhir Kumar",
     "Department": "Electrical Engineering",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "AE-T, sem 3, R-3",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "EFT-L, Sem 04, R-08",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "IES-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "AE-P, SDK+MN",
+    "04:00PM-05:00PM": "AE-P, SDK+MN"
   },
   {
     "EmployeeID": 40043814,
@@ -1451,7 +1451,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "EM I-L, sem 3, R-3",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -1464,7 +1464,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "EM I-L, sem 3, R-3",
     "03:00PM-04:00PM": "G2, EM-II-P, Sem 04, MN",
     "04:00PM-05:00PM": "G2, EM-II-P, Sem 04, MN"
   },
@@ -1473,11 +1473,11 @@
     "Name": "Mr. Saurabh Kumar Jha",
     "Department": "Electrical Engineering",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "10:00-11:00AM": "EM I-L, SKJ, R-3",
+    "11:00AM-12:00PM": "EM I-P, sem 3, NR, AM",
+    "12:00PM-01:00PM": "EM I-P, sem 3, NR, AM",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "EM I-L, sem 3, R-3",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -1503,8 +1503,8 @@
     "11:00AM-12:00PM": "PSII, Sem 6, R-12",
     "12:00PM-01:00PM": "PSII, Sem 6, R-12",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "ECA-L, sem 3, R-3",
+    "03:00PM-04:00PM": "ECA-L, sem 3, R-3",
     "04:00PM-05:00PM": ""
   },
   {
@@ -1516,7 +1516,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "ECA-T, sem 3, R-3",
     "03:00PM-04:00PM": "EDL-P, Sem 6, NR",
     "04:00PM-05:00PM": "EDL-P, Sem 6, NR"
   },
@@ -1526,8 +1526,8 @@
     "Department": "Electrical Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "PSII, Sem 6, R-12",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "ECA-P, SNT+NR",
+    "12:00PM-01:00PM": "ECA-P, SNT+NR",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -1538,7 +1538,7 @@
     "Name": "Mr. Sanat",
     "Department": "Electrical Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "ECA-L, sem 3, R-3",
     "11:00AM-12:00PM": "ES-L, Sem 04, R-08",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -1824,7 +1824,7 @@
     "Name": "Dr. Anshu Kumari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "SS-L, Sem 3, R-2",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -1850,12 +1850,12 @@
     "Name": "Dr. Anshu Kumari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "SS-L, Sem 3, R-2",
     "11:00AM-12:00PM": "NPTEL, Sem 6, R-13",
     "12:00PM-01:00PM": "NPTEL, Sem 6, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "SS-L, Sem 3, R-2",
     "04:00PM-05:00PM": ""
   },
   {
@@ -2036,8 +2036,8 @@
     "11:00AM-12:00PM": "DC-L, Sem 04, R-09",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "BES-L, sem 3, R-1",
+    "03:00PM-04:00PM": "BES-L, sem 3, R-1",
     "04:00PM-05:00PM": ""
   },
   {
@@ -2114,7 +2114,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DE-L, RVK, R 13",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2127,7 +2127,7 @@
     "11:00AM-12:00PM": "CMOS VLSI, SEm 6, R-13",
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DE-L, RVK, R 13",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2137,10 +2137,10 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "BE-L.2nd, R-03",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "DE-P, CSE 3rd, AM",
+    "12:00PM-01:00PM": "DE-P, CSE 3rd, AM",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DE-L, RVK, R 13",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2184,11 +2184,11 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EDC-L, Sem 3, R-2",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2197,11 +2197,11 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Tuesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EDC-L, Sem 3, R-2",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2210,12 +2210,12 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "EDC-L, Sem 3, R-2",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -2223,8 +2223,8 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Thursday",
     "10:00-11:00AM": "",
@@ -2232,12 +2232,12 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "EDC-P, Sem 3, R-2",
+    "04:00PM-05:00PM": "EDC-P, Sem 3, R-2"
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
     "10:00-11:00AM": "",
@@ -2249,8 +2249,8 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": 40014541,
-    "Name": "Dr. Ruchi Verma",
+    "EmployeeID": "",
+    "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Saturday",
     "10:00-11:00AM": "",
@@ -2270,8 +2270,8 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "BES-L, sem 3, R-1",
+    "03:00PM-04:00PM": "BES-L, sem 3, R-1",
     "04:00PM-05:00PM": ""
   },
   {
@@ -2294,10 +2294,10 @@
     "Day": "Wednesday",
     "10:00-11:00AM": "EIM-L, SEm 6, R-13",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "BES-L, sem 3, R-1",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EIM-L, SEm 6, R-13",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "BES, sem 3, R-1",
     "04:00PM-05:00PM": ""
   },
   {
@@ -2310,8 +2310,8 @@
     "12:00PM-01:00PM": "EMI-L, Sem 04, R-09",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EIM-L, SEm 6, R-13",
-    "03:00PM-04:00PM": "EIM-T, SEm 6, R-13",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "BES-P, Sem 3, R-1, AM",
+    "04:00PM-05:00PM": "BES-P, Sem 3, R-1, AM"
   },
   {
     "EmployeeID": 8039,
@@ -2363,7 +2363,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DSD-L, Sem 6, R-14",
     "03:00PM-04:00PM": "DSD-L, Sem 6, R-14",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "DMGT-L, sem 3, R 13"
   },
   {
     "EmployeeID": 40000471,
@@ -2376,7 +2376,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PPS-P, 2nd, SK, R-CCL",
     "03:00PM-04:00PM": "PPS-P, 2nd, SK, R-CCL",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "DMGT-L, sem 3, R 13"
   },
   {
     "EmployeeID": 40000471,
@@ -2402,7 +2402,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "DMGT-L, sem 3, R 13"
   },
   {
     "EmployeeID": 40000471,
@@ -2413,7 +2413,7 @@
     "11:00AM-12:00PM": "PPS-P, 2nd, SK, R-CDL",
     "12:00PM-01:00PM": "PPS-P, 2nd, SK, R-CDL",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DMGT-T, sem 3, R 13",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2422,9 +2422,9 @@
     "Name": "Ms. Anshu Priya",
     "Department": "CSE (Data Science)",
     "Day": "Monday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "DSA-L, sem 3, R 13",
     "11:00AM-12:00PM": "DBMS-L, Sem 06, R-13",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "DBMS-L, Sem 06, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DBMS-L, Sem 04, R-05",
     "03:00PM-04:00PM": "",
@@ -2435,7 +2435,7 @@
     "Name": "Ms. Anshu Priya",
     "Department": "CSE (Data Science)",
     "Day": "Tuesday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "DSA-L, sem 3, R 13",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2448,7 +2448,7 @@
     "Name": "Ms. Anshu Priya",
     "Department": "CSE (Data Science)",
     "Day": "Wednesday",
-    "10:00-11:00AM": "DBMS-L, Sem 06, R-13",
+    "10:00-11:00AM": "DSA-L, sem 3, R 13",
     "11:00AM-12:00PM": "DBMS-L, Sem 04, R-05",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2618,7 +2618,7 @@
     "Department": "CSE (Data Science)",
     "Day": "Thursday",
     "10:00-11:00AM": "COA-L, Sem 04, R-05",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "OOPJ-L, Sem 3, R 13",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PYP-L, 2nd, R-03",
@@ -2631,7 +2631,7 @@
     "Department": "CSE (Data Science)",
     "Day": "Friday",
     "10:00-11:00AM": "CA-L, Sem 6, R-12",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "OOPJ-L, Sem 3, R 13",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CA-L, Sem 6, R-12",
@@ -2643,9 +2643,9 @@
     "Name": "Mrs. Deepa Kumari",
     "Department": "CSE (Data Science)",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "10:00-11:00AM": "OOPJ-L, Sem 3, R 13",
+    "11:00AM-12:00PM": "OOPJ-P, Sem 3, SK",
+    "12:00PM-01:00PM": "OOPJ-P, sem 3,  SK",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CA-L, Sem 6, R-12",
     "03:00PM-04:00PM": "AI, CECA sem 6, R13",
@@ -2657,8 +2657,8 @@
     "Department": "CSE (Data Science)",
     "Day": "Monday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "OS-P, Sem 3, R 13, RV",
+    "12:00PM-01:00PM": "OS-P, Sem 3, R 13, RV",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "CN-L, Sem 04, R-05",
@@ -2671,11 +2671,11 @@
     "Day": "Tuesday",
     "10:00-11:00AM": "FDS-L, Sem 04, R-07",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "OS-L, Sem 3, R 13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "OOPS-P, sem 3, ECE RV",
+    "04:00PM-05:00PM": "OOPS-P, sem 3, ECE RV"
   },
   {
     "EmployeeID": 40231589,
@@ -2686,7 +2686,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "OOPS-L, ECE sem 3, R-2",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2695,9 +2695,9 @@
     "Name": "Mr. Nischay Ranjan",
     "Department": "CSE (Data Science)",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "OOPS-L, ECE  sem 3, R-2",
     "11:00AM-12:00PM": "FDS-L, Sem 04, R-07",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "OS-L, Sem 3, R 13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -2710,7 +2710,7 @@
     "Day": "Friday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "OS-L, Sem 3, R 13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CN-P, Sem 04, RV",
     "03:00PM-04:00PM": "CN-P, Sem 04, RV",
@@ -2721,7 +2721,7 @@
     "Name": "Mr. Nischay Ranjan",
     "Department": "CSE (Data Science)",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "OOPS-L, ECE  sem 3, R-2",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2842,7 +2842,7 @@
     "11:00AM-12:00PM": "ENG-L, CSE-2nd, R-03",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "OOPS-L, sem 3, R-1",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -3206,9 +3206,9 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "M2-L, CE+CECA, 2nd, SH-2",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
   },
   {
     "EmployeeID": 40151602,
@@ -3219,9 +3219,9 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "M2-L, CE+CECA, 2nd, SH-2",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
   },
   {
     "EmployeeID": 40151602,
@@ -3232,7 +3232,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "M2-L, CE+CECA, 2nd, SH-2",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -3245,7 +3245,7 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "M2-T, CE+CECA, 2nd, SH-2",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -3273,7 +3273,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
   },
   {
     "EmployeeID": 40152010,
@@ -3285,8 +3285,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "M2-L, ME+EE-2nd, SH-2",
-    "04:00PM-05:00PM": "M2-T, ME+EE-2nd, SH-2"
+    "03:00PM-04:00PM": "",
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40152010,
@@ -3325,7 +3325,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "EM III, ANP, CE+CECA, SH 2"
   },
   {
     "EmployeeID": 40152010,
@@ -3337,8 +3337,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "M2-L, ME+EE-2nd, SH-2"
+    "03:00PM-04:00PM": "EM III, ANP, CE+CECA, SH 2-T",
+    "04:00PM-05:00PM": "EM III, ANP, CE+CECA, SH 2"
   },
   {
     "EmployeeID": 40152010,
@@ -3347,11 +3347,11 @@
     "Day": "Saturday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "EM III, ANP, CE+CECA, SH 2",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "M2-L, ME+EE-2nd, SH-2"
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 8047,
@@ -3359,12 +3359,12 @@
     "Department": "Applied Science",
     "Day": "Monday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "M2-L, ECE-2nd, R-01",
+    "11:00AM-12:00PM": "EM III-L, ECE Sem 3. R-2",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "M2-L, CSE-2nd, R-03"
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 8047,
@@ -3372,7 +3372,7 @@
     "Department": "Applied Science",
     "Day": "Tuesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "M2-L, ECE-2nd, R-01",
+    "11:00AM-12:00PM": "EM III-L, ECE Sem 3. R-2",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -3385,8 +3385,8 @@
     "Department": "Applied Science",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "M2-L, ECE-2nd, R-01",
-    "12:00PM-01:00PM": "M2-L, CSE-2nd, R-03",
+    "11:00AM-12:00PM": "",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -3399,7 +3399,7 @@
     "Day": "Thursday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "M2-L, CSE-2nd, R-03",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -3412,7 +3412,7 @@
     "Day": "Friday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "M2-T, CSE-2nd, R-03",
+    "12:00PM-01:00PM": "EM III-T, ECE Sem 3. R-2",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -3423,8 +3423,8 @@
     "Name": "Dr. Mati Ram Das",
     "Department": "Applied Science",
     "Day": "Saturday",
-    "10:00-11:00AM": "M2-T, ECE-2nd, R-01",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "",
+    "11:00AM-12:00PM": "EM III-L, ECE Sem 3. R-2",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -3437,11 +3437,11 @@
     "Department": "Applied Science",
     "Day": "Monday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "UHV-L, EE Sem 3, R-3",
+    "12:00PM-01:00PM": "UHV-L, ME Sem 3, R-1",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PSD-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "UHV-L, CE+CECA, Sem 3, SH2",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3450,11 +3450,11 @@
     "Department": "Applied Science",
     "Day": "Tuesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "11:00AM-12:00PM": "UHV-L, EE Sem 3, R-3",
+    "12:00PM-01:00PM": "UHV-L, ECE Sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PSD-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "UHV-L, CE+CECA, Sem 3, SH2",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3464,10 +3464,10 @@
     "Day": "Wednesday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "PM-L, ME, Sem 04, R-10",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "UHV-L, ECE Sem 3, R-3",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PSD-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "UHV-L, ECE Sem 3, R-3",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3475,12 +3475,12 @@
     "Name": "Mr. Sumit Sardesai",
     "Department": "Applied Science",
     "Day": "Thursday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "UHV-L, CSE 3rd, R 13",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "PM-L, ME, Sem 04, R-10",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "UHV-L, CE+CECA, Sem 3, SH2",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3488,12 +3488,12 @@
     "Name": "Mr. Sumit Sardesai",
     "Department": "Applied Science",
     "Day": "Friday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "10:00-11:00AM": "UHV-L, CSE 3rd, R 13",
+    "11:00AM-12:00PM": "UHV-L, EE Sem 3, R-3",
+    "12:00PM-01:00PM": "UHV-L, ME Sem 3, R-1",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "UHV-L, CSE 3rd, R 13",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3503,7 +3503,7 @@
     "Day": "Saturday",
     "10:00-11:00AM": "PM-L, ME, Sem 04, R-10",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "UHV-L, ME Sem 3, R-1",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "AIE-L, SEm 6, R-14",
     "03:00PM-04:00PM": "",
@@ -3518,9 +3518,9 @@
     "11:00AM-12:00PM": "BE, SEm 6, R-13",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "IKS, CE+CECA 3rd, SH2",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "IKS, ECE Sem 3, R 2"
   },
   {
     "EmployeeID": 8012,
@@ -3531,8 +3531,8 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "IKS, CE+CECA 3rd, SH2",
+    "03:00PM-04:00PM": "IKS, CSE, R 13",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3545,8 +3545,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CI-Sen 6, R-14",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "IKS, CSE, R 13",
+    "04:00PM-05:00PM": "IKS, EE sem 3, R 3"
   },
   {
     "EmployeeID": 8012,
@@ -3555,10 +3555,10 @@
     "Day": "Thursday",
     "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "IKS, ECE Sem 3, R 2",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CI-Sen 6, R-14",
-    "03:00PM-04:00PM": "",
+    "03:00PM-04:00PM": "IKS, CSE, R 13",
     "04:00PM-05:00PM": ""
   },
   {
@@ -3570,9 +3570,9 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "CI-Sen 6, R-14",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "IKS, CE+CECA 3rd, SH2",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "IKS, EE sem 3, R 3"
   },
   {
     "EmployeeID": 8012,
@@ -3583,8 +3583,8 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "IKS, ECE Sem 3, R 2",
+    "03:00PM-04:00PM": "IKS, EE sem 3, R 3",
     "04:00PM-05:00PM": ""
   }
 ]

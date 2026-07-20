@@ -1824,8 +1824,8 @@
     "Name": "Dr. Anshu Kumari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "SS-L, Sem 3, R-2",
-    "11:00AM-12:00PM": "",
+    "10:00-11:00AM": "",
+    "11:00AM-12:00PM": "SS-L, Sem 3, R-2",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -1850,13 +1850,13 @@
     "Name": "Dr. Anshu Kumari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "SS-L, Sem 3, R-2",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "NPTEL, Sem 6, R-13",
     "12:00PM-01:00PM": "NPTEL, Sem 6, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "SS-L, Sem 3, R-2",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "SS-L, Sem 3, R-2"
   },
   {
     "EmployeeID": 40148282,
@@ -2110,24 +2110,24 @@
     "Name": "Dr. Ravindra Kumar",
     "Department": "Electronics & Communication Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "BE-L.2nd, R-01",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "DE-L, RVK, R 13",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "02:00PM-03:00PM": "",
+    "03:00PM-04:00PM": "DE-L, CSE 3rd, RVK, R 13",
+    "04:00PM-05:00PM": "DE-L, CSE 3rd, RVK, R 13"
   },
   {
     "EmployeeID": 40038214,
     "Name": "Dr. Ravindra Kumar",
     "Department": "Electronics & Communication Engineering",
     "Day": "Tuesday",
-    "10:00-11:00AM": "BE-L.2nd, R-02",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "CMOS VLSI, SEm 6, R-13",
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "DE-L, RVK, R 13",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2136,11 +2136,11 @@
     "Name": "Dr. Ravindra Kumar",
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "BE-L.2nd, R-03",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "DE-P, CSE 3rd, AM",
     "12:00PM-01:00PM": "DE-P, CSE 3rd, AM",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "DE-L, RVK, R 13",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2155,7 +2155,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "DE-L, CSE 3rd, RVK, R 13"
   },
   {
     "EmployeeID": 40038214,
@@ -2163,8 +2163,8 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "BE-P.2nd, R-ACLAB",
-    "12:00PM-01:00PM": "BE-P.2nd, R-ACLAB",
+    "11:00AM-12:00PM": "",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -2179,16 +2179,16 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "BE-P.2nd, R-ACLAB",
-    "03:00PM-04:00PM": "BE-P.2nd, R-ACLAB",
+    "02:00PM-03:00PM": "",
+    "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Monday",
-    "10:00-11:00AM": "EDC-L, Sem 3, R-2",
+    "10:00-11:00AM": "",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2197,7 +2197,7 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Tuesday",
@@ -2210,12 +2210,12 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
-    "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "EDC-L, Sem 3, R-2",
+    "10:00-11:00AM": "EDC-L, Sem 3, R-2",
+    "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
@@ -2223,7 +2223,7 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Thursday",
@@ -2236,11 +2236,11 @@
     "04:00PM-05:00PM": "EDC-P, Sem 3, R-2"
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Friday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "EDC-L, Sem 3, R-2",
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2249,7 +2249,7 @@
     "04:00PM-05:00PM": ""
   },
   {
-    "EmployeeID": "",
+    "EmployeeID": 100,
     "Name": "Dr. Jaishanker Prasad Keshari",
     "Department": "Electronics & Communication Engineering",
     "Day": "Saturday",
@@ -2423,8 +2423,8 @@
     "Department": "CSE (Data Science)",
     "Day": "Monday",
     "10:00-11:00AM": "DSA-L, sem 3, R 13",
-    "11:00AM-12:00PM": "DBMS-L, Sem 06, R-13",
-    "12:00PM-01:00PM": "DBMS-L, Sem 06, R-13",
+    "11:00AM-12:00PM": "DBMS-L, CECA 6, R-13",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DBMS-L, Sem 04, R-05",
     "03:00PM-04:00PM": "",
@@ -2453,8 +2453,8 @@
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "IWD-L, 2nd, R-03",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "DAA-P, Sem 04, RV",
+    "04:00PM-05:00PM": "DAA-P, Sem 04, RV"
   },
   {
     "EmployeeID": 40231948,
@@ -2465,7 +2465,7 @@
     "11:00AM-12:00PM": "IWD-P, 2nd, +RV, R-CDL",
     "12:00PM-01:00PM": "DBMS-L, Sem 04, R-05",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
+    "02:00PM-03:00PM": "DAA-L, Sem 04, R-05",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2480,16 +2480,16 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "IWD-L, 2nd, R-03",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "04:00PM-05:00PM": "DAA-L, Sem 04, R-05"
   },
   {
     "EmployeeID": 40231948,
     "Name": "Ms. Anshu Priya",
     "Department": "CSE (Data Science)",
     "Day": "Saturday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "DBMS-L, CECA 6, R-13",
     "11:00AM-12:00PM": "",
-    "12:00PM-01:00PM": "",
+    "12:00PM-01:00PM": "DAA-L, Sem 04, R-05",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -3208,7 +3208,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
+    "04:00PM-05:00PM": "EM III-L, ME+EE 3rd, SH2"
   },
   {
     "EmployeeID": 40151602,
@@ -3221,7 +3221,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
+    "04:00PM-05:00PM": "EM III-L, ME+EE 3rd, SH2"
   },
   {
     "EmployeeID": 40151602,
@@ -3273,7 +3273,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": "EM III-L, ME+EE, SH2"
+    "04:00PM-05:00PM": "EM III-L, ME+EE 3rd, SH2"
   },
   {
     "EmployeeID": 40152010,

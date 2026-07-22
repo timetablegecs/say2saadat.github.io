@@ -681,7 +681,7 @@
   },
   {
     "SubjectCode": 101602,
-    "SubjectAcr": "",
+    "SubjectAcr": "CE&M",
     "SubjectName": "Construction Engineering and Management",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -689,7 +689,7 @@
   },
   {
     "SubjectCode": 101603,
-    "SubjectAcr": "",
+    "SubjectAcr": "DSS",
     "SubjectName": "Design of Steel Structure",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -697,7 +697,7 @@
   },
   {
     "SubjectCode": 101604,
-    "SubjectAcr": "",
+    "SubjectAcr": "EEEC",
     "SubjectName": "Engineering Economics Estimation and Costing",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -705,7 +705,7 @@
   },
   {
     "SubjectCode": 101605,
-    "SubjectAcr": "",
+    "SubjectAcr": "EE-II",
     "SubjectName": "Environmental Engineering-II",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -713,7 +713,7 @@
   },
   {
     "SubjectCode": 101606,
-    "SubjectAcr": "",
+    "SubjectAcr": "GE-II",
     "SubjectName": "Geotechnical Engineering-II",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -721,7 +721,7 @@
   },
   {
     "SubjectCode": 101617,
-    "SubjectAcr": "",
+    "SubjectAcr": "CM",
     "SubjectName": "Concrete Materials",
     "Department": "Civil Engineering",
     "Semester": 6,
@@ -729,7 +729,7 @@
   },
   {
     "SubjectCode": 101701,
-    "SubjectAcr": "",
+    "SubjectAcr": "PPLE",
     "SubjectName": "Professional Practice,Law and Ethics",
     "Department": "Civil Engineering",
     "Semester": 7,
@@ -737,7 +737,7 @@
   },
   {
     "SubjectCode": 101710,
-    "SubjectAcr": "",
+    "SubjectAcr": "CT",
     "SubjectName": "Concrete Technology",
     "Department": "Civil Engineering",
     "Semester": 7,
@@ -745,7 +745,7 @@
   },
   {
     "SubjectCode": 101722,
-    "SubjectAcr": "",
+    "SubjectAcr": "FE",
     "SubjectName": "Foundation Engineering",
     "Department": "Civil Engineering",
     "Semester": 7,
@@ -753,7 +753,7 @@
   },
   {
     "SubjectCode": 101803,
-    "SubjectAcr": "",
+    "SubjectAcr": "CoMa",
     "SubjectName": "Contract Management",
     "Department": "Civil Engineering",
     "Semester": 8,
@@ -761,7 +761,7 @@
   },
   {
     "SubjectCode": 101818,
-    "SubjectAcr": "",
+    "SubjectAcr": "RE",
     "SubjectName": "Railway Engineering",
     "Department": "Civil Engineering",
     "Semester": 8,
@@ -769,7 +769,7 @@
   },
   {
     "SubjectCode": 101827,
-    "SubjectAcr": "",
+    "SubjectAcr": "CEM",
     "SubjectName": "Construction Engineering Material",
     "Department": "Civil Engineering",
     "Semester": 8,
@@ -777,7 +777,7 @@
   },
   {
     "SubjectCode": 101838,
-    "SubjectAcr": "",
+    "SubjectAcr": "EPI",
     "SubjectName": "Economics Policies in India",
     "Department": "Civil Engineering",
     "Semester": 8,
@@ -2814,5 +2814,85 @@
     "Department": "Computer Science and Engineering",
     "Semester": 4,
     "Credits": 1
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "GI",
+    "SubjectName": "Geoinformatics",
+    "Department": "Computer Science and Engineering",
+    "Semester": 3,
+    "Credits": 3
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "EM III",
+    "SubjectName": "Engineering Mathematics-III",
+    "Department": "",
+    "Semester": 1,
+    "Credits": 4
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "",
+    "SubjectName": "",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
+  },
+  {
+    "SubjectCode": "",
+    "SubjectAcr": "FL",
+    "SubjectName": "Foreign language",
+    "Department": "",
+    "Semester": "",
+    "Credits": ""
   }
 ]

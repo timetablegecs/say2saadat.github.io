@@ -18,13 +18,6 @@
     "Department": "Mechanical Engineering"
   },
   {
-    "Facultycode": "SRJ",
-    "FacultyName": "Prof. SERAJ AHMED",
-    "Designation": "Assistant Professor",
-    "Department": "Mechanical Engineering"
-  },
-  
-  {
     "Facultycode": "AVK",
     "FacultyName": "Prof. AVINASH KUMAR",
     "Designation": "Assistant Professor",
@@ -33,6 +26,12 @@
   {
     "Facultycode": "VKK",
     "FacultyName": "Prof. VIKRAM KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "SRJ",
+    "FacultyName": "Prof. SERAJ AHMED",
     "Designation": "Assistant Professor",
     "Department": "Mechanical Engineering"
   },
@@ -115,7 +114,7 @@
     "Department": "Computer Science and Engineering (Data Science)"
   },
   {
-    "Facultycode": "DPK",
+    "Facultycode": "DPA",
     "FacultyName": "Prof. DEEPA KUMARI",
     "Designation": "Assistant Professor",
     "Department": "Computer Science and Engineering (Data Science)"
@@ -230,7 +229,7 @@
   },
   {
     "Facultycode": "AKA",
-    "FacultyName": "Prof. ANKUR ASHUTOSH",
+    "FacultyName": "Dr. ANKUR ASHUTOSH",
     "Designation": "Assistant Professor",
     "Department": "Applied Science"
   },

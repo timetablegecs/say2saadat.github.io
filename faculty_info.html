@@ -1,214 +1,368 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Faculty Information</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(120deg, #4facfe, #00f2fe);
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  padding: 20px;
-}
-
-.card {
-  background: white;
-  width: 100%;
-  max-width: 900px;
-  padding: 80px;
-  border-radius: 12px;
-  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
-}
-
-h2 {
-  text-align: center;
-  color: #0b3c5d;
-  margin-bottom: 15px;
-}
-
-/* ===== LOADING TEXT ===== */
-#loading {
-  text-align: center;
-  font-size: 14px;
-  color: #0b3c5d;
-  font-weight: bold;
-}
-
-/* ===== TABLE ===== */
-.table-wrapper {
-  overflow-x: auto;
-  display: none;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th, td {
-  border: 1px solid #cfd8dc;
-  padding: 8px;
-  text-align: center;
-  font-size: 13px;
-}
-
-th {
-  background: #0b3c5d;
-  color: white;
-  position: sticky;
-  top: 0;
-}
-
-tr:nth-child(even) {
-  background: #f8fbff;
-}
-
-.dept-section{
-  margin-bottom:35px;
-}
-
-.dept-title{
-  background:#0b3c5d;
-  color:white;
-  padding:8px;
-  text-align:center;
-  border-radius:6px;
-  margin-bottom:8px;
-  font-size:15px;
-}
-
-table{
-  width:100%;
-  border-collapse:collapse;
-}
-
-th,td{
-  border:1px solid #cfd8dc;
-  padding:8px;
-  font-size:13px;
-}
-
-th{
-  background:#0b3c5d;
-  color:white;
-}
-
-tr:nth-child(even){
-  background:#f6f9fc;
-}
-
-
-/* ===== MOBILE ===== */
-@media (max-width: 600px) {
-  th, td {
-    font-size: 12px;
-    padding: 6px;
+[
+  {
+    "Facultycode": "KVC",
+    "FacultyName": "Prof. (Dr.) KESHAVENDRA CHOUDHARY",
+    "Designation": "Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "CDK",
+    "FacultyName": "DR. CHANDAN KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "AMK",
+    "FacultyName": "Prof. AMIT KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "AVK",
+    "FacultyName": "Prof. AVINASH KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "VKK",
+    "FacultyName": "Prof. VIKRAM KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "SRJ",
+    "FacultyName": "Prof. SERAJ AHMED",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "VSK",
+    "FacultyName": "Prof. VINAY SHANKAR KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "RKS",
+    "FacultyName": "Prof. RAJU KUMAR SHARMA",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "SMK",
+    "FacultyName": "Prof. SURYAMANI KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "SDK",
+    "FacultyName": "Prof. SUDHIR KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "NSA",
+    "FacultyName": "Prof. MD. NASIM AKHTER",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "SKJ",
+    "FacultyName": "Prof. SAURABH KUMAR JHA",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "NTK",
+    "FacultyName": "Prof. NISHANT KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "JTK",
+    "FacultyName": "Prof. JITENDRA KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "SNT",
+    "FacultyName": "Prof. SANAT",
+    "Designation": "Assistant Professor",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "SDT",
+    "FacultyName": "DR. SHAHADAT HUSSAIN",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "ARK",
+    "FacultyName": "Prof. ARUN KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "ANP",
+    "FacultyName": "Prof. ANUPAM KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "NCR",
+    "FacultyName": "Prof. NISCHAY RANJAN",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "DPA",
+    "FacultyName": "Prof. DEEPA KUMARI",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "ASP",
+    "FacultyName": "Prof. ANSHU PRIYA",
+    "Designation": "Assistant Professor",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "DPK",
+    "FacultyName": "Prof. DEEPAK KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "MSA",
+    "FacultyName": "Prof. MD. SHADAB ALAM",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "RVS",
+    "FacultyName": "Prof. RAVISHANKAR",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "PNK",
+    "FacultyName": "Prof. PANKAJ KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "RSR",
+    "FacultyName": "Prof. RAUSHAN KUMAR RAVI",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "FKH",
+    "FacultyName": "Prof. FAHIM AHMED KHAN",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "RKR",
+    "FacultyName": "Prof. RAKESH KUMAR RAVI",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "SSU",
+    "FacultyName": "Prof. SAURABH SUMAN",
+    "Designation": "Assistant Professor",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "MUK",
+    "FacultyName": "DR. MUKESH KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "RVK",
+    "FacultyName": "DR. RAVINDRA KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "SJK",
+    "FacultyName": "DR. SANJEEV KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "RCV",
+    "FacultyName": "DR. RUCHI VARMA",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "ASK",
+    "FacultyName": "DR. ANSHU KUMARI",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "BMK",
+    "FacultyName": "Prof. BRIJ MOHAN KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "MKT",
+    "FacultyName": "Prof. MUNAN KUMAR THAKUR",
+    "Designation": "Assistant Professor",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "DSS",
+    "FacultyName": "DR. DINESH SAH",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "ADP",
+    "FacultyName": "Prof. ADITYA NARAYAN PANDEY",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "AKA",
+    "FacultyName": "Dr. ANKUR ASHUTOSH",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "RKD",
+    "FacultyName": "DR. RAM KUMAR DAS",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "RVR",
+    "FacultyName": "Prof. RAVI RANJAN",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "SSI",
+    "FacultyName": "Prof. SUMIT SARDESAI",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "ABK",
+    "FacultyName": "Prof. ABHISHEK KUMAR",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "YGP",
+    "FacultyName": "DR. YOGENDRA KUMAR PODDAR",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "MKP",
+    "FacultyName": "DR. MUKESH KUMAR PANDEY",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "KSM",
+    "FacultyName": "Prof. KRISHNA MURARI",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "MTD",
+    "FacultyName": "Dr. MATIRAM DAS",
+    "Designation": "Assistant Professor",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "AW",
+    "FacultyName": "Mr. AWNISH KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "KK",
+    "FacultyName": "Mr. KARNVIR KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "PD",
+    "FacultyName": "Mr. PRADEEP SINGH",
+    "Designation": "Technical Assistants",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "SJ",
+    "FacultyName": "Mr. SURAJ KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Mechanical Engineering"
+  },
+  {
+    "Facultycode": "NR",
+    "FacultyName": "Mr. NIKHIL RANJAN",
+    "Designation": "Technical Assistants",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "MN",
+    "FacultyName": "Mr. MANISH KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Electrical Engineering"
+  },
+  {
+    "Facultycode": "SK",
+    "FacultyName": "Mr. SHEKHAR KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "RV",
+    "FacultyName": "Mr. RAVI KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Computer Science and Engineering (Data Science)"
+  },
+  {
+    "Facultycode": "SP",
+    "FacultyName": "Mr. SHAFQUET PARWEZ",
+    "Designation": "Technical Assistants",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "PK",
+    "FacultyName": "Mr. PANKAJ KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Civil Engineering"
+  },
+  {
+    "Facultycode": "DP",
+    "FacultyName": "Mr. DIPAK KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "AR",
+    "FacultyName": "Mr. AMAN RAJ",
+    "Designation": "Technical Assistants",
+    "Department": "Electronics and Communication Engineering"
+  },
+  {
+    "Facultycode": "PI",
+    "FacultyName": "Ms. PRIYANKA KUMARI",
+    "Designation": "Technical Assistants",
+    "Department": "Applied Science"
+  },
+  {
+    "Facultycode": "ST",
+    "FacultyName": "Mr. SANTU KUMAR",
+    "Designation": "Technical Assistants",
+    "Department": "Applied Science"
   }
-}
-</style>
-</head>
-
-<body>
-
-<div class="card">
-  <h2>Faculty Information</h2>
-
-  <div id="loading">Loading faculty information…</div>
-
-  <div class="table-wrapper" id="tableWrapper">
-    <table id="facultyTable">
-      <thead></thead>
-      <tbody></tbody>
-    </table>
-  </div>
-</div>
-
-<script>
-const API_URL = "data/faculty_information.json";
-
-fetch(API_URL)
-  .then(res => res.json())
-  .then(data => {
-
-    const container = document.getElementById("tableWrapper");
-
-    if (!data || data.length === 0) {
-      document.getElementById("loading").innerText = "No data found";
-      return;
-    }
-
-    /* ---- GROUP BY DEPARTMENT ---- */
-    const deptGroups = {};
-
-    data.forEach(row => {
-      const dept = row.Department || "Other";
-
-      if (!deptGroups[dept]) {
-        deptGroups[dept] = [];
-      }
-
-      deptGroups[dept].push(row);
-    });
-
-    let html = "";
-
-    /* ---- CREATE SECTION FOR EACH DEPARTMENT ---- */
-    Object.keys(deptGroups).forEach(dept => {
-
-      html += `
-        <div class="dept-section">
-          <h3 class="dept-title">${dept}</h3>
-          <table>
-            <thead>
-              <tr>
-                <th>Sr No</th>
-                <th>Faculty Code</th>
-                <th>Name</th>
-                <th>Designation</th>
-              </tr>
-            </thead>
-            <tbody>
-      `;
-
-      deptGroups[dept].forEach((faculty, index) => {
-
-        html += `
-          <tr>
-            <td>${index + 1}</td>
-            <td>${faculty.Facultycode || ""}</td>
-            <td style="text-align:left">${faculty.FacultyName || ""}</td>
-            <td>${faculty.Designation || ""}</td>
-          </tr>
-        `;
-      });
-
-      html += `
-            </tbody>
-          </table>
-        </div>
-      `;
-    });
-
-    container.innerHTML = html;
-
-    document.getElementById("loading").style.display = "none";
-    container.style.display = "block";
-  })
-
-  .catch(err => {
-    document.getElementById("loading").innerText =
-      "Error loading data. Please try again.";
-    console.error(err);
-  });
-</script>
-
-</body>
-</html>
-
-
-
+]

@@ -447,8 +447,8 @@
     "Department": "Civil Engineering",
     "Day": "Friday",
     "10:00-11:00AM": "GE-I-L, Sem 04, R-07",
-    "11:00AM-12:00PM": "EEEC-P, Sem 6, SP",
-    "12:00PM-01:00PM": "EEEC-P, Sem 6, SP",
+    "11:00AM-12:00PM": "",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "G2, BPCEAD-P, Sem 04, SP",
@@ -2115,8 +2115,8 @@
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "DE-L, CSE 3rd, RVK, R 13",
-    "04:00PM-05:00PM": "DE-L, CSE 3rd, RVK, R 13"
+    "03:00PM-04:00PM": "DE-P, CSE 3rd, AR",
+    "04:00PM-05:00PM": "DE-P, CSE 3rd, AR"
   },
   {
     "EmployeeID": 40038214,
@@ -2128,8 +2128,8 @@
     "12:00PM-01:00PM": "CMOS VLSI, SEm 6, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
-    "04:00PM-05:00PM": ""
+    "03:00PM-04:00PM": "DE-P, CSE 3rd, AR",
+    "04:00PM-05:00PM": "DE-P, CSE 3rd, AR"
   },
   {
     "EmployeeID": 40038214,
@@ -2137,8 +2137,8 @@
     "Department": "Electronics & Communication Engineering",
     "Day": "Wednesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "DE-P, CSE 3rd, AM",
-    "12:00PM-01:00PM": "DE-P, CSE 3rd, AM",
+    "11:00AM-12:00PM": "DE-L, CSE 3rd, R-13",
+    "12:00PM-01:00PM": "DE-L, CSE 3rd, R-13",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
@@ -2344,7 +2344,7 @@
     "Name": "Mr. Arun Kumar",
     "Department": "CSE (Data Science)",
     "Day": "Monday",
-    "10:00-11:00AM": "",
+    "10:00-11:00AM": "DMGT-L, sem 3, R 13",
     "11:00AM-12:00PM": "FLA-L, Sem 04, R-05",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
@@ -2363,7 +2363,7 @@
     "Lunch Hours": "",
     "02:00PM-03:00PM": "DSD-L, Sem 6, R-14",
     "03:00PM-04:00PM": "DSD-L, Sem 6, R-14",
-    "04:00PM-05:00PM": "DMGT-L, sem 3, R 13"
+    "04:00PM-05:00PM": ""
   },
   {
     "EmployeeID": 40000471,
@@ -2621,7 +2621,7 @@
     "11:00AM-12:00PM": "OOPJ-L, Sem 3, R 13",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "PYP-L, 2nd, R-03",
+    "02:00PM-03:00PM": "",
     "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
@@ -2648,8 +2648,8 @@
     "12:00PM-01:00PM": "OOPJ-P, sem 3,  SK",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "CA-L, Sem 6, R-12",
-    "03:00PM-04:00PM": "AI, CECA sem 6, R13",
-    "04:00PM-05:00PM": "AI, CECA sem 6, R13"
+    "03:00PM-04:00PM": "AI=L, CECA sem 6, R13",
+    "04:00PM-05:00PM": "AI=L, CECA sem 6, R13"
   },
   {
     "EmployeeID": 40231589,
@@ -3528,11 +3528,11 @@
     "Department": "Applied Science",
     "Day": "Tuesday",
     "10:00-11:00AM": "",
-    "11:00AM-12:00PM": "",
+    "11:00AM-12:00PM": "IKS-L, CSE, R 13",
     "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "IKS-L, CE+CECA 3rd, SH2",
-    "03:00PM-04:00PM": "IKS-L, CSE, R 13",
+    "03:00PM-04:00PM": "",
     "04:00PM-05:00PM": ""
   },
   {

@@ -1412,8 +1412,8 @@
     "11:00AM-12:00PM": "",
     "12:00PM-01:00PM": "EM-II-L, Sem 04, R-08",
     "Lunch Hours": "",
-    "02:00PM-03:00PM": "",
-    "03:00PM-04:00PM": "",
+    "02:00PM-03:00PM": "EM I-P, sem 3, MN",
+    "03:00PM-04:00PM": "EM I-P, sem 3, MN",
     "04:00PM-05:00PM": ""
   },
   {
@@ -1474,8 +1474,8 @@
     "Department": "Electrical Engineering",
     "Day": "Saturday",
     "10:00-11:00AM": "EM I-L, SKJ, R-3",
-    "11:00AM-12:00PM": "EM I-P, sem 3, MN",
-    "12:00PM-01:00PM": "EM I-P, sem 3, MN",
+    "11:00AM-12:00PM": "",
+    "12:00PM-01:00PM": "",
     "Lunch Hours": "",
     "02:00PM-03:00PM": "EM I-L, sem 3, R-3",
     "03:00PM-04:00PM": "",
